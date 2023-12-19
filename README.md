@@ -199,6 +199,7 @@ Publish the website in the given URL.
 ![Alt text](<Screenshot (42).png>)
 ![Alt text](<Screenshot (43).png>)
 ![Alt text](<Screenshot (44).png>)
-![Alt text](<Screenshot (45).png>)
+![Screenshot (45)](https://github.com/Iyalarasu1/softweb/assets/144870581/beaca43d-9d26-4a73-909a-20180fdfc1f9)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
